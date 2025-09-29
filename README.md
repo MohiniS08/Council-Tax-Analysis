@@ -17,7 +17,7 @@ As open datasets were incomplete, a **Realistic Mock Dataset** was created to si
 - Requirement_MillionGBP  
 - Avg_BandD_GBP
 
-CSV FILE: Council_Dataset.csv
+CSV FILE: "Council_Dataset.csv"
 
 # SQL Analysis
 1. Collection Rate per Authority per Year
@@ -54,7 +54,7 @@ Download
 
 # How to Use 
 - Import the dataset into SQL and run queries from 
-- Open      in Power BI to explore the dashboard.
+- Open "council dashboard.pbix" in Power BI to explore the dashboard.
 
 # Key Insights
 - Collection Rate across councils is typically 92–95%.
@@ -68,3 +68,4 @@ Download
 
 # Contact
 Email: t2000sisodia@gmail.com
+GITHUB: https://github.com/MohiniS08

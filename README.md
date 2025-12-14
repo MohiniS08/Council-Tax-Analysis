@@ -50,7 +50,7 @@ Visuals
 - Collection Efficiency - Donut chart
 - Average Band D Distribution - Stacked Column chart
 
-Download 
+Explore the dashboard: *council dashboard.pbix*
 
 # How to Use 
 - Import the dataset into SQL and run queries from 
